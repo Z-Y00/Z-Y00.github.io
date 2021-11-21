@@ -21,6 +21,13 @@ I am currently a PhD student at [University of Southern California](https://usc.
 Please refer to [our group's webpage](http://alchem.usc.edu/portal/index.html) for my research.
 
 ---
+<div class="post">
+
+  {% if page.news %}
+    {% include news.html %}
+  {% endif %}
+
+</div>
 
 <div class="publications">
 
