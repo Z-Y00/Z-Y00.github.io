@@ -13,7 +13,7 @@ profile:
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
-years: [2021, 2020, 2019, 2018]
+years: [2021, 2020]
 ---
 
 I am currently a PhD student at USC, advised by [Xuehai Qian](http://alchem.usc.edu/~xuehaiq/).
@@ -24,9 +24,11 @@ Please refer to [our group's webpage](http://alchem.usc.edu/portal/index.html)
 
 ---
 
-{: #publications}
-## __publications__
+<div class="publications">
 
 {% for y in page.years %}
+  <h2 class="year">{{y}}</h2>
   {% bibliography -f papers -q @*[year={{y}}]* %}
 {% endfor %}
+
+</div>
