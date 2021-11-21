@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 description: He/Him/His | PhD Student | Viterbi School of Engineering, University of Southern California.
 
