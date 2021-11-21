@@ -29,6 +29,8 @@ Please refer to [our group's webpage](http://alchem.usc.edu/portal/index.html) f
 
 </div>
 
+## Publications
+
 <div class="publications">
 
 {% for y in page.years %}
