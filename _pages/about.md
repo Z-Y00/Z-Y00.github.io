@@ -7,8 +7,8 @@ description: He/Him/His | PhD Student | Viterbi School of Engineering, USC
 profile:
   align: right
   image: prof_pic.jpg
-  address: >
-    <p>Los Angeles</p>
+  # address: >
+    # <p>Los Angeles</p>
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
