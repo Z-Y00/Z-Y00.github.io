@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: PhD Student | Viterbi School of Engineering, University of Southern California.
+description: He/Him/His | PhD Student | Viterbi School of Engineering, University of Southern California.
 
 profile:
   align: right
