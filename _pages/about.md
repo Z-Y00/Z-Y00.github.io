@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. PhD Student | Viterbi School of Engineering, University of Southern California.
+description: PhD Student | Viterbi School of Engineering, University of Southern California.
 
 profile:
   align: right

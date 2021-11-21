@@ -78,7 +78,7 @@ panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Rao  # your blog must have a name for it to show up in the nav bar
+blog_name: Rao # your blog must have a name for it to show up in the nav bar
 blog_description: Webpage of Rao
 permalink: /blog/:year/:title/
 
