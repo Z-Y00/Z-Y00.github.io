@@ -79,7 +79,7 @@ panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 # -----------------------------------------------------------------------------
 
 blog_name: Rao  # your blog must have a name for it to show up in the nav bar
-blog_description: 
+blog_description: Webpage of Rao
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -182,8 +182,8 @@ jekyll-archives:
 
 scholar:
 
-  last_name: Einstein
-  first_name: [Albert, A.]
+  last_name: Rao
+  first_name: [Gengyu]
 
   style: apa
   locale: en
