@@ -17,10 +17,8 @@ years: [2021, 2020]
 ---
 
 I am currently a PhD student at USC, advised by [Xuehai Qian](http://alchem.usc.edu/~xuehaiq/).
----
 
-## __Research__
-Please refer to [our group's webpage](http://alchem.usc.edu/portal/index.html)
+Please refer to [our group's webpage](http://alchem.usc.edu/portal/index.html) for my research.
 
 ---
 
