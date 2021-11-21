@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-description: He/Him/His | PhD Student | USC
+description: He/Him/His | PhD Student | Viterbi School of Engineering, USC
 
 profile:
   align: right
@@ -16,7 +16,7 @@ social: true  # includes social icons at the bottom of the page
 years: [2021, 2020]
 ---
 
-I am currently a PhD student at [Viterbi School of Engineering, University of Southern California](https://viterbischool.usc.edu/), advised by [Xuehai Qian](http://alchem.usc.edu/~xuehaiq/).
+I am currently a PhD student at [University of Southern California](https://usc.edu/), advised by [Xuehai Qian](http://alchem.usc.edu/~xuehaiq/).
 
 Please refer to [our group's webpage](http://alchem.usc.edu/portal/index.html) for my research.
 
