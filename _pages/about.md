@@ -6,8 +6,10 @@ description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: 2.JPG
+  image: prof_pic.jpg
   address: >
+    <p>555 your office number</p>
+    <p>123 your address street</p>
     <p>Los Angeles</p>
 
 news: true  # includes a list of news items
