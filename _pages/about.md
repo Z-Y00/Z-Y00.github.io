@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-description: He/Him/His | PhD Student | Viterbi School of Engineering, USC
+description: They/Them | PhD Student | Viterbi School of Engineering, USC
 
 profile:
   align: right
