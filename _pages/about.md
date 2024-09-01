@@ -21,13 +21,3 @@ I am currently a PhD at [University of Southern California](https://usc.edu/), a
 Please refer to [our group's webpage](http://alchem.usc.edu/portal/index.html) for my research.
 
 My [Resume](https://z-y00.github.io/academic/assets/pdf/Rao_CV.pdf).
-
-## Publications
-
-<div class="publications">
-
-{% for y in page.years %}
-  {% bibliography -f papers -q @*[year={{y}}]* %}
-{% endfor %}
-
-</div>
