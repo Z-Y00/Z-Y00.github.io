@@ -21,14 +21,6 @@ I am currently a PhD student at [University of Southern California](https://usc.
 Please refer to [our group's webpage](http://alchem.usc.edu/portal/index.html) for my research.
 
 My [Resume](https://z-y00.github.io/academic/assets/pdf/Rao_CV.pdf)
-<!-- ---
-<div class="post">
-
-  {% if page.news %}
-    {% include news.html %}
-  {% endif %}
-
-</div> -->
 
 ## Publications
 
