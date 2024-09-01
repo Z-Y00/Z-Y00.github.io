@@ -20,4 +20,4 @@ I'm a PhD at [University of Southern California](https://usc.edu/), advised by X
 
 Please refer to our group's webpage [(archive)](http://web.archive.org/web/20230331130641/https://alchem.cs.purdue.edu/index.html) for my research. 
 
-Details about my research projects, teaching experience, awards, and other are in my [Resume](https://z-y00.github.io/academic/assets/pdf/Rao_CV.pdf).
+Details about my research projects, teaching experience, awards,etc., are in my [Resume](https://z-y00.github.io/academic/assets/pdf/Rao_CV.pdf).
