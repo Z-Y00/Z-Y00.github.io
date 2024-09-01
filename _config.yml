@@ -113,8 +113,8 @@ permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
 # Pagination
-pagination:
-  enabled: true
+# pagination:
+#   enabled: true
 
 # Comments
 disqus_shortname:  Webpage of Rao # put your disqus shortname
