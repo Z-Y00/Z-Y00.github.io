@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-description: They/Them | PhD | Viterbi School of Engineering, USC
+subtitle: They/Them | PhD | Viterbi School of Engineering, USC
 
 profile:
   align: right
