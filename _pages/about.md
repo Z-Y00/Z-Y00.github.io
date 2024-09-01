@@ -27,7 +27,6 @@ My [Resume](https://z-y00.github.io/academic/assets/pdf/Rao_CV.pdf).
 <div class="publications">
 
 {% for y in page.years %}
-  <h2 class="year">{{y}}</h2>
   {% bibliography -f papers -q @*[year={{y}}]* %}
 {% endfor %}
 
