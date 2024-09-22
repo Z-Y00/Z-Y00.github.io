@@ -16,7 +16,7 @@ social: true  # includes social icons at the bottom of the page
 years: [2022,2021, 2020]
 ---
 
-I'm a PhD at [University of Southern California](https://usc.edu/), advised by Xuehai Qian [(archive)](http://web.archive.org/web/20230505193100/https://alchem.cs.purdue.edu/xuehaiq.html).
+I'm a PhD at [University of Southern California](https://usc.edu/), advised by [Xuehai Qian](https://scholar.google.com/citations?user=5QL8V68AAAAJ&hl=en) , who was an Assistant Professor at USC, now a full professor at Tsinghua University.
 
 Please refer to our group's webpage [(archive)](http://web.archive.org/web/20230331130641/https://alchem.cs.purdue.edu/index.html) for my research. 
 
